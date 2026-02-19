@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos de sistema operativo
+.DS_Store
