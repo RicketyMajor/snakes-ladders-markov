@@ -1,0 +1,17 @@
+board:
+  size: 50
+  die_faces: 6
+  ladders:
+    3: 22
+    5: 8
+    11: 26
+    20: 29
+    17: 4
+    # (puedes agregar más)
+  snakes:
+    19: 7
+    21: 9
+    27: 1
+    35: 23
+    47: 36
+    # (puedes agregar más)
